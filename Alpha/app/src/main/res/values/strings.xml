@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Alpha</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="onetime_text">We are always there</string>
+    <string name="onetime_text2">We are always here to accompany you</string>
+    <string name="onetime_text3">whenever and wherever</string>
+    <string name="onetime_text4">Get in through</string>
+    <string name="signup">Sign up</string>
+    <string name="Welcome">Welcome\nBack</string>
+    <string name="login">Login</string>
+    <string name="forget">Forget password?</string>
+    <string name="register">New User<b /><font color="#ed9c63"> Register Now</font><b /></string>
+    <string name="createaccount">Create\nAccount</string>
+    <string name="name">Name</string>
+    <string name="Email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="Signup">SIGN UP</string>
+    <string name="already"><font color="#9ba4a4">Already have an account?</font><b /> <font color="#ed9c63"> SIGN IN</font><b /></string>
+    <string name="test_msg">How long would you like to rent ?</string>
+    <string name="ttpe_here">Type here...</string>
+</resources>
